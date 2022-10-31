@@ -33,7 +33,7 @@ def handler(event, context):
                     'Ec2KeyName': 'fabianoalcantara-igti-teste',
                     'KeepJobFlowAliveWhenNoSteps': True,
                     'TerminationProtected': False,
-                    'Ec2SubnetId': 'subnet-1df20360'
+                    'Ec2SubnetId': 'subnet-020cd579a131d3ed6'
                 },
 
                 Applications=[
